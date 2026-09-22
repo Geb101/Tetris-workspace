@@ -1,0 +1,17 @@
+# Локальные и временные файлы
+node_modules/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+*.log
+
+# Настройки Obsidian
+.obsidian/
+workspace.json
+
+# Буферные материалы
+Test-doc.md
+
+# Скриншоты проверок не входят в публикацию
+03-проверка/*.png
